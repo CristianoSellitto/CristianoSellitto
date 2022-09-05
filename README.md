@@ -8,7 +8,7 @@
   <a href="https://github.com/search?q=user%3ACristianoSellitto+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 </p>
 
-<h2>Operatiing Systems</h2>
+<h2>Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
