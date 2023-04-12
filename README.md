@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <h2>Programming Languages</h2>
 <p>
