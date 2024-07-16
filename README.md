@@ -1,6 +1,6 @@
 ### Hello!
 
-This GitHub account is contains many coding projects I did for school classes.
+This GitHub account contains many coding projects I did for school classes.
 
 <h3>Programming Languages</h3>
 <p>
