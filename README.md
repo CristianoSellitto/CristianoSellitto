@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello!</h3>
-<p align="center">This GitHub account contains many coding projects I did for school classes since 2022. </p>
+<p align="center">This GitHub account contains many coding projects I did for school since 2022. </p>
 
 <h2 align="center">💻 Programming Languages</h3>
 <p align="center">
